@@ -1,0 +1,90 @@
+{
+    "question": [
+        "Q1. What Indian city is the capital of two states?",
+        "Q2. Which city is the capital of India?",
+        "Q3. Smallest State of India?",
+        "Q4. Where is Taj Mahal Located?",
+        "Q5. What is the capital city of Japan?",
+        "Q6. Which of the folowing is a loop?",
+        "Q7. Which day is celebrated as teachers day?",
+        "Q8. An image is the collection of?",
+        "Q9. What is the highest mountain in the world?",
+        "Q10. Which one of this is a extention for a video file"
+    ],
+
+    "answer": [
+    1,
+    2,
+    3,
+    2,
+    3,
+    4,
+    3,
+    1,
+    2,
+    4
+],
+
+    "options": [
+        [
+            "Chandigarh",
+            "Kolkata",
+            "Delhi",
+            "Bangalore"
+        ],
+        [
+            "Jaipur",
+            "Delhi",
+            "Chennai",
+            "Mumbai"
+        ],
+        [
+            "Rajasthan",
+            "Punjab",
+            "Goa",
+            "Bihar"
+        ],
+        [
+            "Lucknow",
+            "Agra",
+            "Bhopal",
+            "Delhi"
+        ],
+        [
+            "Osaka", 
+            "Kyoto", 
+            "Tokyo", 
+            "Yokohama"
+        ],
+        [
+            "for", 
+            "while", 
+            "do-while", 
+            "all of these"
+        ],
+        [
+            "6th September", 
+            "9th September", 
+            "5th September", 
+            "none of the above"
+        ],
+        [
+            "Pixels", 
+            "Frames", 
+            "Bits", 
+            "none of the above"
+        ],
+        [
+            "Mount Kilimanjaro",
+            "Mount Everest",
+            "Mount Denali",
+            "Mount Fuji"
+        ],
+        [
+            ".mp3",
+            ".jpg",
+            ".png",
+            ".mp4"
+        ]
+]
+}
