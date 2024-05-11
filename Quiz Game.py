@@ -1,8 +1,5 @@
 # Final Project - Quiz Game using Python and json
 
-
-
-
 #                                   -----------------------------Importing packages and creating the main window-----------------------------
 # Importing the tkinter and custom tkinter
 from tkinter import *
